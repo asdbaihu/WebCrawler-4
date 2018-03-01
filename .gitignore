@@ -1,0 +1,13 @@
+#Maven
+log/
+target/
+out/
+
+#Intellij
+.idea/
+*.iml
+*.iws
+
+#Others
+bin/
+
